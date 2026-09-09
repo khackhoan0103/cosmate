@@ -1,3 +1,11 @@
+## Repository Structure
+
+| Component | Repository |
+|---|---|
+| Backend | [CosMate Backend](https://github.com/khackhoan0103/cosmate-backend) |
+| Frontend | [CosMate Frontend](https://github.com/khackhoan0103/cosmate-frontend) |
+| Mobile | [CosMate Mobile](https://github.com/khackhoan0103/cosmate-mobile) |
+
 # CosMate — Intelligent Cosplay Rental & Service Platform
 
 ## Overview
