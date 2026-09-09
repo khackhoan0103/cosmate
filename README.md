@@ -2,9 +2,9 @@
 
 | Component | Repository |
 |---|---|
-| Backend | [CosMate Backend]([https://github.com/khackhoan0103/cosmate-backend](https://github.com/phatdvt183465/KLTN_CosMate_Backend.git)) |
-| Frontend | [CosMate Frontend]([https://github.com/khackhoan0103/cosmate-frontend](https://github.com/Phan-Duong-Duy-Thien/CosMate.git)) |
-| Mobile | [CosMate Mobile]([https://github.com/khackhoan0103/cosmate-mobile](https://github.com/ZuuSaitoh/CosMate-App-Mobile.git)) |
+| Backend | [https://github.com/khackhoan0103/cosmate-backend](https://github.com/phatdvt183465/KLTN_CosMate_Backend.git) |
+| Frontend | [https://github.com/khackhoan0103/cosmate-frontend](https://github.com/Phan-Duong-Duy-Thien/CosMate.git) |
+| Mobile | [https://github.com/khackhoan0103/cosmate-mobile](https://github.com/ZuuSaitoh/CosMate-App-Mobile.git) |
 
 # CosMate — Intelligent Cosplay Rental & Service Platform
 
